@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/wave-me-a-hi/precache-manifest.2b6a45de8bcf66cd10beca256987886a.js"
+  "/wave-me-a-hi/precache-manifest.9043dac96ea907f805bb98471dcc93e2.js"
 );
 
 workbox.clientsClaim();
